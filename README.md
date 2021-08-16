@@ -14,3 +14,5 @@ The perceptron : Output error
 
 The perceptron : Equation error 
 - PerceptronAsEVPEquationError : Perceptron with the equation error reduced to an eigenvalue problem and solved with the Macaulay matrix method
+
+The functions needed to run this code can be found in the Foler 'Functions'
